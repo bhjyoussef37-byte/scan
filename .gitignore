@@ -1,4 +1,4 @@
-# Python
+﻿# Python
 __pycache__/
 *.py[cod]
 *.pyo
@@ -9,32 +9,16 @@ env/
 venv/
 .venv/
 
-# AI Model weights (too large for GitHub)
-*.pt
-*.bin
-*.onnx
-camera/best/
-camera/best_ocr_openvino_model/
-camera/best_openvino_model/
-
-# Node / Front-end
+# Node / Front‑end
 node_modules/
 dist/
 build/
 
-# IDE / editor
+# VS Code / IDE
 .vscode/
 .idea/
 
-# Logs / DB / secrets
+# Logs / DB / Secrets
 *.log
 parking.db
 .env
-
-# OS files
-Thumbs.db
-desktop.ini
-
-# Scratch / temp
-scratch/
-kernel.errors.txt
